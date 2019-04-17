@@ -1,0 +1,4 @@
+[01-Feb-2019 15:20:05 Europe/Rome] PHP Warning:  scandir(../../../../uploaded/): failed to open dir: No such file or directory in /home1/founder/public_html/nyboss/admin/js/filemanager/dialog.php on line 544
+[01-Feb-2019 15:20:05 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home1/founder/public_html/nyboss/admin/js/filemanager/dialog.php on line 544
+[01-Feb-2019 15:20:05 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home1/founder/public_html/nyboss/admin/js/filemanager/dialog.php on line 556
+[01-Feb-2019 15:20:05 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home1/founder/public_html/nyboss/admin/js/filemanager/dialog.php on line 1105

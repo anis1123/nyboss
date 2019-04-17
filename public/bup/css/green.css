@@ -1,0 +1,45 @@
+.top-section{
+    background: url("../img/pattern_bg_green.png") repeat 0 0;
+    background: url('../img/main_bg_green.png') no-repeat center top,
+                url('../img/pattern_bg_green.png') repeat 0 0;
+    }
+.notify-msg{
+    color: #475850
+    }
+.sub-hero-copy,
+.unodos .label,
+.unodos .sep{
+    color: #DCECE6;
+    }
+
+
+/* Orange Buttons looks better on the green */
+.notify-btn {
+    background-color: #01b44e;
+    *background-color: #00923f;
+    background-image: -moz-linear-gradient(top, #01b44e, #00923f);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#01b44e), to(#00923f));
+    background-image: -webkit-linear-gradient(top, #01b44e, #00923f);
+    background-image: -o-linear-gradient(top, #01b44e, #00923f);
+    background-image: linear-gradient(to bottom, #01b44e, #00923f);
+    border-color: #00923f;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#01b44e', endColorstr='#00923f', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    }
+
+.notify-btn:hover,
+.notify-btn:focus,
+.notify-btn:active,
+.notify-btn.active,
+.notify-btn.disabled,
+.notify-btn[disabled] {
+    color: #ffffff;
+    background-color: #00923f;
+    *background-color: #00923f;
+    }
+
+.notify-btn:active,
+.notify-btn.active {
+    background-color: #00923f \9;
+    }
